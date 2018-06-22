@@ -2,6 +2,17 @@ Fast Cleaner and Cooling Master
 
 We have used folloing permisson for used application.
 
+
+Fast Cleaner and Cooling Master, the best optimization tool with space cleaner and antivirus,
+it helps keep your phone clean and safe from viruses.
+
+Acceptance of this Policy
+
+By accessing, visiting or using our Services, you warrant and represent that you have read, understood and agreed to this Policy and our Terms of Service. If you disagree with anything in this Policy, you must not use or access the Services.
+
+a. Personal Information. We do not collect Personal Information. "Personal Information" is information that identifies you or another person, which may be transmitted or received when you use an Application, the Services and / or the Site. Personal Information includes your geographic area information, names, physical addresses, email addresses, telephone, fax, SSN, information stored within your Device and other information you transmit or receive using an Application, the Service and / or the Site which identifies you or another person.
+b. Non-personal identification. We may collect non-personal identification information about Users whenever they interact with our apps. Non-personal identification information may include the type of your phone and technical information about Users means of connection to our apps, such as the versions of phone model and other similar information.
+
 Read and write storage permission is used for share applicaiton with log.
 
     <uses-permission android:name="android.permission.INTERNET" />
