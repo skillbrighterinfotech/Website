@@ -1,1 +1,13 @@
 
+Happy Independence Day 
+
+This application is used for share independency day GIF using sharing application which is in you device.
+
+This is require below permission required.
+1) <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    - When you tap on share button it's first save this GIF to SDCard so it's need write external storage permission.
+    
+2) <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  - When you tap on share button it's read this GIF to SDCard so it's need read external storage permission.
+  
+  
