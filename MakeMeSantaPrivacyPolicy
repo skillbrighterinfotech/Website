@@ -1,0 +1,8 @@
+Make me Santa is amazing Free app
+
+It's required below permission to used application:
+1) android.permission.CAMERA : This is for take photo using and edit.
+2) android.permission.WRITE_EXTERNAL_STORAGE: This is used to save edit photo into SDcard
+3) android.permission.READ_EXTERNAL_STORAGE : This is used for read save photo from SDCard.
+
+Thanks for using Maek me santa application.
